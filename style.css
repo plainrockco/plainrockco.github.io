@@ -75,3 +75,10 @@
 .bd-mode-toggle {
   z-index: 1500;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
